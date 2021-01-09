@@ -1,5 +1,5 @@
 ---
-title: Parrot Privacy Policy
+title: Privacy Policy
 theme: jekyll-theme-minimal
 logo: null
 filename: privacy-policy.md
