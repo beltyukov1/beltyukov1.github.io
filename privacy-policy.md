@@ -1,10 +1,3 @@
----
-title: Privacy Policy
-theme: jekyll-theme-minimal
-logo: null
-filename: privacy-policy.md
---- 
-
 # Privacy Policy
 This policy applies to all information collected or submitted via the Parrot app on iOS.
 
