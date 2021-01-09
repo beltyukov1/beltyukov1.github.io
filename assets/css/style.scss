@@ -2,3 +2,24 @@
 ---
 
 @import "{{ site.theme }}";
+
+img {
+    max-width: 50%;
+}
+
+header {
+    width: 325px;
+    text-align: right;
+}
+
+@media print, screen and (max-width: 960px) {
+    img {
+        max-width: 19%;
+    }
+
+    header {
+        width: auto;
+        padding-right: 0;
+        text-align: center;
+    }
+}
