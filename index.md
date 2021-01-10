@@ -6,3 +6,7 @@ Recordings are private and only stored on device. For added privacy, please cons
 
 ## Get In Touch
 Please reach out to [support@parrotapp.dev](mailto:support@parrotapp.dev) to get in touch with us.
+
+<a href="https://apps.apple.com/us/app/parrot-recorder-and-looper/id1527210110" rel="Download on the App Store">
+    <img width=150 src="assets/images/app-store-button.svg">
+</a>
