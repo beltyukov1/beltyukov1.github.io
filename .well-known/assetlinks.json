@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "beltyukov.me.calendarwidget",
+      "sha256_cert_fingerprints": [
+        "C0:AE:E6:20:71:87:15:5E:EB:B8:67:C7:E6:BD:DA:68:59:7A:E9:67:70:31:B7:93:B8:31:D9:98:AF:DF:07:EB"
+      ]
+    }
+  }
+]
